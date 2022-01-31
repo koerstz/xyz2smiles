@@ -1,0 +1,3 @@
+rdkit
+boost
+eigen3
